@@ -1,0 +1,33 @@
+Day1 Assignment:
+
+1. What is your understanding of blockchain?
+
+    A mix of technology i.e. Distributed Database and Cryptography where the info is Verifiable,Unchangeable,Tamper-Proof,Immutable. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on blockchain.In blockchain,the transactions are recorded with an immutable cryptographic signature called HASH.
+
+2. What is the core problem blockchain trying to solve?
+
+   It addresses the problem of data security and trust by making the ledger public.Hardware and software errors are not only the data security issue. the blockchain has to protect from willful fraud .
+
+3. What are the few features which blockchain will give you?
+
+   Cannot be Corrupted
+   Decentralized Technology
+   Enhanced security
+   Distributed Ledgers
+   Consensus
+   Faster Settlement
+
+4. What all things does a block contain?
+
+   A block contains 
+            Block Number
+            Transation records
+            Previous block Signature
+            Mining key
+
+5. How is the verifiability of bockchain is been attained?
+
+   The blockchain is public and distributed to nodes. It is verifiable,that anybody can check all of the transactions and hashes all the way back to the genesis block,and if any attempt to change anything is made,the hash values will change and verification will fail
+   We can't check whether the data distributed is correct or not,but we can verify our hash value(fingerprint)
+            
+            
